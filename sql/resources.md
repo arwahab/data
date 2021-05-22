@@ -1,4 +1,4 @@
-# SQL Commands
+# SQL Resources
 
 https://phoenixnap.com/kb/how-to-create-a-table-in-mysql
 
