@@ -1,5 +1,10 @@
 # SQL Commands
 
+### Log into MySQL 
+```
+mysql -u user -p
+```
+
 ### Creating a MySQL User
 ```
 CREATE USER 'user'@'host';
